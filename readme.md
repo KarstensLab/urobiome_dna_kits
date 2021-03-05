@@ -1,4 +1,4 @@
-#### This repository contains the coding resources that were used to produce the results presented in the manuscript "Benchmarking DNA isolation kits used in analyses of the urinary microbiome".  
+#### This repository contains the coding resources to reproduce the results presented in the manuscript "Benchmarking DNA isolation kits used in analyses of the urinary microbiome".  
 
 The raw fastq files for this study can be found on the SRA under accession number PRJNA662669 [link](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=662669)
 
