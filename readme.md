@@ -4,7 +4,7 @@ The raw fastq files for this study can be found on the SRA under accession numbe
 
 The analyses are divided into 2 sections:
 
-1. Analyses to assess how the DNA kits performed on urine samples
+1. [Analyses to assess how the DNA kits performed on urine samples](https://karstenslab.github.io/urobiome_dna_kits/files/dna_kits_analysis_urine.html)
 2. Analyses to assess how the DNA kits performed on a mock microbial community dilution series
 
 ### This repository will be updated soon, please come back later!
